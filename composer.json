@@ -1,0 +1,25 @@
+{
+    "name": "wirelab/createadmin",
+    "description": "Create Admin Command package for Laravel",
+    "authors": [
+        {
+            "name": "Matic",
+            "email": "matic@wirelab.nl"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wirelab\\CreateAdmin\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wirelab\\HttpsProtocol\\CreateAdminServiceProvider"
+            ]
+        }
+    }
+}

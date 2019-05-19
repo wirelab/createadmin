@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Wirelab\\HttpsProtocol\\CreateAdminServiceProvider"
+                "Wirelab\\CreateAdmin\\CreateAdminServiceProvider"
             ]
         }
     }

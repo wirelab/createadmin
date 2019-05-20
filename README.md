@@ -5,3 +5,8 @@ Create Admin command package for Laravel
 ```bash
 $ composer require wirelab/createadmin
 ```
+
+## Use
+```bash
+$ php artisan admin:create
+```

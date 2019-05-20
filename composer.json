@@ -1,12 +1,25 @@
 {
     "name": "wirelab/createadmin",
     "description": "Create Admin Command package for Laravel",
+    "keywords": [
+        "wirelab",
+        "downloads",
+        "laravel",
+        "admin"
+    ],
+    "homepage": "http://wirelab.nl/",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Matic",
-            "email": "matic@wirelab.nl"
+            "name": "Wirelab",
+            "email": "algemeen@wirelab.nl",
+            "homepage": "http://www.wirelab.nl/",
+            "role": "Owner"
         }
     ],
+    "support": {
+        "email": "algemeen@wirelab.nl"
+    },
     "require": {
         "illuminate/support": "^5.8"
     },
